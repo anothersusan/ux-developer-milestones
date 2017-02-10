@@ -8,6 +8,7 @@
 1. npm http-server
 1. Command Line Interface (CLI)
 1. Adobe Tools
+1. Product Design video
 
 ### Static Web: HTML, CSS, JS
 1. Semantic/valid HTML
@@ -18,6 +19,11 @@
 1. Teamwork, Planning, Communication
 1. Wireframes
 1. JS: Variables, conditionals, arrays, objects, functions
+
+!##SDLC	
+1. Intro to SDLC ("The 5Ds") & Agile
+1. Intro to Design Thinking
+1. Teamwork, Planning, Communication
 
 ### Milestone
 1. JQuery
