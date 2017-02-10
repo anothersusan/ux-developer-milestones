@@ -10,7 +10,6 @@
 1. Adobe Tools
 1. Product Design video
 1. Read "Don't Make Me Think" by Steve Krug
-1. Read "What is Product Design?" on Medium
 
 ### SDLC
 1. Intro to SDLC ("The 5Ds") & Agile 
@@ -37,6 +36,7 @@
 1. Design mobile first and mobile apps
 1. Responsive Design and Media Queries
 1. Responsive frameworks: Bootstrap/Materialize
+1. Ecommerce & Catalog Designs
 
 ### Milestone
 1. Portfolios
@@ -54,16 +54,19 @@
 1. Information Architecture
 1. Screen Layout Principles
 1. Visual Design
+1. Typography
 1. Style Guide
 1. Pattern Library
 1. Internet of Things (IoT)
 1. MVP
+1. On-boarding 
 1. API's
 1. Web Components
 
 ### Milestone 
 1. CMS
 1. Usability Testing
+1. Analytics 
 1. Facilitation Techniques
 1. Critiquing
 1. Presentation Skills
