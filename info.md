@@ -20,6 +20,11 @@
 1. Wireframes
 1. JS: Variables, conditionals, arrays, objects, functions
 
+!##SDLC	
+1. Intro to SDLC ("The 5Ds") & Agile
+1. Intro to Design Thinking
+1. Teamwork, Planning, Communication
+
 ### Milestone
 1. JQuery
 1. xhr/.ajax loaders
